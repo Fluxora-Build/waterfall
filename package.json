@@ -1,0 +1,11 @@
+{
+  "name": "waterfall",
+  "version": "1.0.0",
+  "description": "A scroll experience built around a real-time waterfall of light. Raw WebGL2, no dependencies, no build step.",
+  "license": "MIT",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "npx --yes serve ."
+  }
+}
