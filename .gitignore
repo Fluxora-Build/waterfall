@@ -1,0 +1,17 @@
+# secrets and local settings
+.env*
+*.local*
+.claude/
+# tools, proofs and outputs
+node_modules/
+proof/
+proofs/
+out/
+output/
+outputs/
+exports/
+.ref/
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
